@@ -1,6 +1,5 @@
 # MOVIE-DATABASE
 
-## TMDB Cheatsheet
-### Geting ID for genres:
+## TMDB API URL
 
-url = "https://api.themoviedb.org/3/genre/movie/list?language=en"
+* Geting ID for genres: url = "https://api.themoviedb.org/3/genre/movie/list?language=en"
